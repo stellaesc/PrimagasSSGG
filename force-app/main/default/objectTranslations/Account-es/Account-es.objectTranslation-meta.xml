@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Cliente cambio titular canalizado</layout>
+        <sections>
+            <label></label>
+            <section>Dirección de facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Empresa</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de sistema</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Cliente potencial salesreps</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de sistema</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Segmentación</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Clientes existentes Abinitio</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Clientes existentes Abinitio Canalizado</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de baja</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Clientes existentes Telper</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de baja</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Default</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label></label>
+            <section>Datos Personales</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de baja</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Resto de campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Segmentación cliente</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Cliente potencial - empresa</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Segmentación</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Competidor</layout>
+        <sections>
+            <label></label>
+            <section>Campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>clientes existentes</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de baja</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Segmentación cliente</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>clientes existentes salesreps</layout>
+        <sections>
+            <label></label>
+            <section>Contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Dirección de Facturación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información de baja</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pagos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Segmentación cliente</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>DeliveryAddress</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>NuevoContratoCambioDeTitular</name>
+    </quickActions>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Cambio_de_titular_canalizado</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Cliente</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Cliente_existente</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Competidor</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Partner</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Evitar_creacion_cuentas_personales</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>IBAN_validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Si_welcome_pack_true_fecha_envio_obligat</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Valida_telefono</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>detalle_cambio_otros</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>motivo_baja_otros</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>status_baja_anulado</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>AltavistaNews</name>
+    </webLinks>
+    <webLinks>
+        <label>Clonar</label>
+        <name>Clone</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Consultar_sharepoint</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>HooversProfile</name>
+    </webLinks>
+    <webLinks>
+        <label>Edición Masiva</label>
+        <name>Mass_Edit</name>
+    </webLinks>
+    <webLinks>
+        <label>Actualización Masiva</label>
+        <name>Mass_Update</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Nuevo_Caso</name>
+    </webLinks>
+    <webLinks>
+        <label>Modificar Activo</label>
+        <name>SBQQ__Amend_Assets</name>
+    </webLinks>
+    <webLinks>
+        <label>Renovar Activos</label>
+        <name>SBQQ__Renew_Assets</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>dsfs__Send_with_DocuSign</name>
+    </webLinks>
+</CustomObjectTranslation>

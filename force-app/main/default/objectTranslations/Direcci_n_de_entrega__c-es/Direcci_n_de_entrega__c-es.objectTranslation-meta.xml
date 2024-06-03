@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dirección de entrega</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Direcciones de entrega</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Formato Dirección de entrega</layout>
+        <sections>
+            <label></label>
+            <section>Backoffice fields</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Elemento de servicio</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Dirección de entrega - Restringido</layout>
+        <sections>
+            <label></label>
+            <section>Backoffice fields</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Elemento de servicio</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Dirección de entrega Telper</layout>
+        <sections>
+            <label></label>
+            <section>Backoffice fields</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Elemento de servicio</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Dirección de entrega Telper - Restringido</layout>
+        <sections>
+            <label></label>
+            <section>Backoffice fields</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Elemento de servicio</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Formato Dirección entrega Colaboradores</layout>
+        <sections>
+            <label></label>
+            <section>Backoffice fields</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Elemento de servicio</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>Crear_Pedido</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Nueva_Lectura</name>
+    </quickActions>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Validar</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>Lecturas_de_contador</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Nueva_Lectura</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Nuevo_Pedido</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Pedidos_de_gas</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label></label>
+    <name>Cod_forma_de_pago__c</name>
+    <picklistValues>
+        <masterLabel>ANTICIPAR</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RECIBO</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TRANSFER</masterLabel>
+        <translation></translation>
+    </picklistValues>
+</CustomFieldTranslation>

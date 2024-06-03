@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Consumo_y_duracion_Deposito_Propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Consumo_y_duracion_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Consumo_y_duracion_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Consumo_y_duracion_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Datos_de_Contacto</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Datos_de_captacion</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>CPQ_Observaciones</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Caracteristicas_del_contador</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Condiciones_de_Pago_Deposito_propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Condiciones_de_Pago_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Condiciones_de_Pago_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Condiciones_de_Pago_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Condiciones_especiales</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Consumo_y_duracion_Deposito_Propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Consumo_y_duracion_From_Navision</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Consumo_y_duracion_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Consumo_y_duracion_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Consumo_y_duracion_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Contacto</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Contacto_Duplicar</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Contacto_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Instalacion_Deposito_Propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Instalacion_DocuSign</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Instalacion_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Instalacion_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Instalacion_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_Poliza_From_Navision</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_captacion</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_captacion_GLP_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Datos_de_captacion_GLP_GNL_DP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Informacion_de_direccion</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Informacion_del_Banco_DocuSign</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Informacion_del_sistema</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Informacion_del_sistema_GLP_GNL_DP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Inversion_en_instalacion_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Inversion_en_instalacion_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Observaciones</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Observaciones_GLP_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>PrimaConfort_DocuSign</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Primaservicios</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Primaservicios_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Primaservicios_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>SBQQ__ActiveContractLookup</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Suministro_Producto_Deposito_Propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Suministro_Producto_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Suministro_Producto_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Suministro_Producto_Poliza</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Tarifas_Gas_Deposito_Propio</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Tarifas_Gas_GLP</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Tarifas_Gas_GNL</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>Tarifas_Gas_Poliza</name>
+    </fieldSets>
+    <layouts>
+        <layout>Contratos legacy</layout>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos póliza</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Inversión en instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DocuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaconfort (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaservicios</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Depósito propio</layout>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Condiciones especiales</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos Banco (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos Instalación (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DosuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Estación servicio</layout>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Inversión en instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DocuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaconfort (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaservicios</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>GLP</layout>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Inversión en instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DocuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaconfort (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaservicios</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>GNL</layout>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Inversión en instalación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DocuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaconfort (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Primaservicios</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Póliza</layout>
+        <sections>
+            <label></label>
+            <section>Características contador</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Condiciones de Pago</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Consumo y duración</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de Captación</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de contacto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Datos de la póliza</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Información del Banco (DocuSign)</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Observaciones DocuSign</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Resolución Anticipada</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Suministro Producto</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Tarifas Gas</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Deposito_propio</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Estaci_n_de_servicio</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>From_Navision</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>GLP</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>GNL</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Poliza</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>IBAN_validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>IBAN_validation_alternativa</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>Deca1B7S000000SCJEUA4</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Deca1B7S000000SDnsUAG</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Deca1B7S000000SDrHUAW</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Deca1B7S000000SDsAUAW</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Deca1B7S000000XdVUUA0</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Duplicar_Cambio_de_Tarifa</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Duplicar_Cambio_de_Titular</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Enviar_a_docusign</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Mass_Edit</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Mass_Update</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__Amend</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__RenewContracts</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>dsfs__Send_with_DocuSign</name>
+    </webLinks>
+</CustomObjectTranslation>

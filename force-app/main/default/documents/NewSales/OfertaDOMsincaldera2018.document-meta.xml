@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>La imagen está en \\10.18.0.8\Volume_1\Datos Compartidos\IT\App New Sales Manuals\5 - Carga de Datos\Imágenes Ofertas\2020. Si solo remplazamos la imagen no hace falta modificar tablas, si nueva subida mod. la tabla ImagenesOferta</description>
+    <internalUseOnly>false</internalUseOnly>
+    <name>OfertaDOMsincaldera2018</name>
+    <public>true</public>
+</Document>

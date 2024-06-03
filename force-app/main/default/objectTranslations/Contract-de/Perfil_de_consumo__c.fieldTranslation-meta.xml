@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label></label>
+    <name>Perfil_de_consumo__c</name>
+    <picklistValues>
+        <masterLabel>Calefacción</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lineal</masterLabel>
+        <translation></translation>
+    </picklistValues>
+</CustomFieldTranslation>

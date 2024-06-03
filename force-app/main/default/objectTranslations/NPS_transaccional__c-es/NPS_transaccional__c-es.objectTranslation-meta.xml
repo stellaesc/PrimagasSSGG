@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>NPS transaccional</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>NPS transaccional</value>
+    </caseValues>
+    <gender>Masculine</gender>
+    <layouts>
+        <layout>Ayúdanos a mejorar</layout>
+        <sections>
+            <label></label>
+            <section>Campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Bienvenido a Primagas</layout>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Gracias por haber confiado en nosotros</layout>
+        <sections>
+            <label></label>
+            <section>Campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Tu experiencia con nosotros 1</layout>
+        <sections>
+            <label></label>
+            <section>Campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Tu experiencia con nosotros 2</layout>
+        <sections>
+            <label></label>
+            <section>Campos</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Ay_danos_a_mejorar</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Bienvenido_a_Primagas</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Gracias_por_haber_confiado_en_nosotros</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Tu_experiencia_con_nosotros_1</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>Tu_experiencia_con_nosotros_2</name>
+    </recordTypes>
+</CustomObjectTranslation>

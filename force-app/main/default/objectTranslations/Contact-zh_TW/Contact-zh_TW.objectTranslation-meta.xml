@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Formato de contactos</layout>
+        <sections>
+            <label></label>
+            <section>Hubspot intelligence</section>
+        </sections>
+    </layouts>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Valida_m_vil</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Valida_telefono</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Mass_Edit</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Mass_Update</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>YahooWeather</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>dsfs__Send_with_DocuSign</name>
+    </webLinks>
+</CustomObjectTranslation>
